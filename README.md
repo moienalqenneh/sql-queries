@@ -32,5 +32,6 @@ DROP TABLE temp_table;
 ```
 This step drops the temporary table temp_table as it is no longer needed after the duplicate records have been removed.
 
-**Usage**
+**Usage**:
+
 To use this query, simply copy the contents of the delete_duplicates.sql file and execute it in your SQL environment. Ensure that you have a **backup** of your data before running delete operations.
